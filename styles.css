@@ -451,7 +451,7 @@ body {
 /* Responsive Styles */
 @media (max-width: 768px) {
     .container {
-        width: 90%; /* Ensure padding for smaller screens */
+        width: 96%; /* Ensure padding for smaller screens */
     }
 
     .skills-grid, .projects-grid, .experience-grid {
